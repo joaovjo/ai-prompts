@@ -4,7 +4,7 @@ Thank you for your interest in contributing to the AI Prompts repository! We wel
 
 ## Code of Conduct
 
-Please review our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing. All contributors are expected to uphold this code.
+All contributors are expected to uphold respectful and inclusive behavior. Please help us maintain a welcoming community.
 
 ## Getting Started
 
@@ -181,7 +181,7 @@ Before submitting a PR, ensure:
 
 - Check existing issues for similar questions
 - Review the [README.md](README.md) for overview
-- Look at the [copilot-instructions.md](.github/copilot-instructions.md) for repository patterns
+- Look at the [README.md](README.md) for repository patterns
 
 ## License
 
