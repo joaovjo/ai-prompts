@@ -26,12 +26,20 @@ Examples of unacceptable behavior by participants include:
 
 ## Enforcement
 
-Community members who violate this Code of Conduct may be temporarily or permanently banned from community spaces at the discretion of community leadership.
+Enforcement of this Code of Conduct is designed to be fair, transparent, and consistent. The following process and criteria apply:
 
+- **Types of Consequences**: Violations may result in a range of actions, including warnings, temporary bans, or permanent bans. Minor first-time offenses (e.g., mild disrespect, inappropriate language) will typically result in a warning. Repeated or severe violations (e.g., harassment, threats, doxxing, violence) may result in a temporary or permanent ban, depending on the severity and context.
+- **Warnings**: In most cases, a warning will be issued before any ban, except for egregious violations that threaten the safety or well-being of community members.
+- **Decision Makers**: Enforcement decisions are made by the project maintainers or designated moderation team. All reports are reviewed and investigated before any action is taken.
+- **Appeals Process**: Community members subject to enforcement actions may appeal the decision by contacting the project maintainers. Appeals will be reviewed by maintainers not involved in the original decision when possible, and a final decision will be communicated within a reasonable timeframe.
 ## Reporting
 
 If you experience or witness behavior that violates this Code of Conduct, please report it by contacting the project maintainers directly. All complaints will be reviewed and investigated.
 
+
+**Confidentiality and Reporter Protection**
+
+Reports will be kept confidential to the extent possible, and the privacy of reporters will be protected throughout the process. Anonymous reports are accepted. Retaliation against anyone who reports a violation or participates in an investigation is strictly prohibited and will result in disciplinary action. If you have concerns about privacy or safety when reporting, please let the maintainers know so appropriate measures can be taken.
 ## Scope
 
 This Code of Conduct applies to all community spaces, online and offline, where community members represent the ai-prompts project or community.
