@@ -1,0 +1,30 @@
+{
+    "servers": {
+        "github": {
+            "type": "http",
+            "url": "https://api.githubcopilot.com/mcp/"
+        },
+        "context7": {
+            "type": "http",
+            "url": "https://mcp.context7.com/mcp"
+        },
+        "cognitionai/deepwiki": {
+            "type": "http",
+            "url": "https://mcp.deepwiki.com/sse",
+        },
+        "sequential-thinking": {
+            "url": "https://server.smithery.ai/@smithery-ai/server-sequential-thinking/mcp",
+            "type": "http"
+        },
+        "memory-bank-mcp": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@allpepper/memory-bank-mcp"
+            ],
+            "env": {
+                "MEMORY_BANK_ROOT": "${workspaceFolder}/.memories/*}"
+            }
+        }
+    }
+}
