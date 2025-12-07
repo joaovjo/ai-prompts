@@ -180,9 +180,7 @@ Before submitting a PR, ensure:
 ## Questions or Need Help?
 
 - Check existing issues for similar questions
-- Review the [README.md](README.md) for overview
-- Look at the [README.md](README.md) for repository patterns
-
+- Review the [README.md](README.md) for an overview and repository patterns
 ## License
 
 By contributing to this repository, you agree that your contributions will be licensed under the MIT License.
