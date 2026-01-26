@@ -1,7 +1,6 @@
 ---
-name: code-quality
+trigger: model_decision
 description: Universal code quality and best practices standards
-applyTo: "**"
 ---
 
 # Code Quality Standards

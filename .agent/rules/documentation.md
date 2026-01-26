@@ -1,7 +1,6 @@
 ---
-name: documentation
+trigger: model_decision
 description: Documentation standards for all projects
-applyTo: "**"
 ---
 
 # Documentation Standards

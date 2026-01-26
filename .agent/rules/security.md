@@ -1,7 +1,6 @@
 ---
-name: security
+trigger: model_decision
 description: Security best practices for all projects
-applyTo: "**"
 ---
 
 # Security Guidelines

@@ -1,6 +1,7 @@
 ---
-applyTo: '**'
+trigger: model_decision
 ---
+
 Coding standards, domain knowledge, and preferences that AI should follow.
 
 # Memory Bank

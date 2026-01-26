@@ -1,7 +1,6 @@
 ---
-name: refactoring-principles
+trigger: model_decision
 description: Refactoring principles and best practices
-applyTo: "**"
 ---
 
 # Refactoring Principles

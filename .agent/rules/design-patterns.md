@@ -1,7 +1,6 @@
 ---
-name: design-patterns
+trigger: model_decision
 description: Catalog of proven design patterns for common software design problems
-applyTo: "**"
 ---
 
 # Design Patterns

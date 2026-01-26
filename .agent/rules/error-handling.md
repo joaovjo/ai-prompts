@@ -1,7 +1,6 @@
 ---
-name: error-handling
+trigger: model_decision
 description: Error handling patterns and best practices
-applyTo: "**"
 ---
 
 # Error Handling Standards
