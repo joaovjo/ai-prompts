@@ -1,6 +1,9 @@
 ---
 name: memory-bank
 description: Sistema de memória persistente baseado em arquivos e grafo de conhecimento. Agnóstico a modelo de IA. Use para manter contexto entre sessões.
+user-invocable: true
+argument-hint: "Use comandos como 'atualizar memórias', 'ler memórias', ou 'gerenciar tarefas' para interagir com o banco de memórias."
+compatibility: ["all"]
 ---
 
 # Memory Bank
@@ -48,22 +51,22 @@ A skill fornece scripts para automatizar o gerenciamento:
 Cria a estrutura `.memories` e arquivos iniciais.
 
 ```bash
-python .agent/skills/memory-bank/scripts/init_memories.py
+bun .agent/skills/memory-bank/scripts/init_memories.ts
 ```
 
 #### Sincronizar Metadados
 Lê todos os arquivos `.md` e regenera o `metadata.json`.
 
 ```bash
-python .agent/skills/memory-bank/scripts/sync_metadata.py
+bun .agent/skills/memory-bank/scripts/sync_metadata.ts
 ```
 
 #### Gerenciar Tarefas
 Cria e atualiza tarefas.
 
-- **Adicionar Tarefa**: `python .agent/skills/memory-bank/scripts/task_manager.py add "Nome da Tarefa"`
-- **Atualizar Tarefa**: `python .agent/skills/memory-bank/scripts/task_manager.py update "TASK-ID"`
-- **Listar Tarefas**: `python .agent/skills/memory-bank/scripts/task_manager.py list`
+- **Adicionar Tarefa**: `bun .agent/skills/memory-bank/scripts/task_manager.ts add "Nome da Tarefa"`
+- **Atualizar Tarefa**: `bun .agent/skills/memory-bank/scripts/task_manager.ts update "TASK-ID"`
+- **Listar Tarefas**: `bun .agent/skills/memory-bank/scripts/task_manager.ts list`
 
 ## Referência de Frontmatter
 
